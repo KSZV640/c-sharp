@@ -1,0 +1,13 @@
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.exe
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.deps.json
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.runtimeconfig.json
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.runtimeconfig.dev.json
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.dll
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\bin\Debug\netcoreapp3.1\ProyectoFinal_POO.pdb
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.csprojAssemblyReference.cache
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.AssemblyInfoInputs.cache
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.AssemblyInfo.cs
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.dll
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.pdb
+C:\Users\TEMP\OneDrive\Escritorio\Nueva carpeta (4)\c-sharp-main\Ejercicios\ProyectoFinal-POO\obj\Debug\netcoreapp3.1\ProyectoFinal_POO.genruntimeconfig.cache
